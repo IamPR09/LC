@@ -69,7 +69,8 @@ def binarySearch2(nums, target):
             h = m-1
     return -1
 
-
+# T(n) - O(logn)
+# S(n) - O(1)
 
  
 
